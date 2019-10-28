@@ -1,4 +1,5 @@
-﻿1,'Bulbasaur','grass',228,45,45
+NUMBER,NAME,TYPE,BASE,HP,SPEED
+1,'Bulbasaur','grass',228,45,45
 2,'Ivysaur','grass',285,60,60
 3,'Venusaur','grass',365,80,80
 4,'Charmander','fire',205,39,65
